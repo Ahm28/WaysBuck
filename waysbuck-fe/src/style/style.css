@@ -1,0 +1,43 @@
+.outline-primary {
+  border: 1px solid #bd0707;
+  background-color: #fff;
+  color: #bd0707;
+}
+
+.outline-primary:hover {
+  border: 1px solid #bd0707;
+  background-color: #bd0707;
+  color: #fff;
+}
+
+.bg-primary-color {
+  border: 1px solid #bd0707;
+  background-color: #bd0707;
+  color: #fff;
+}
+
+.bg-primary-color:hover {
+  background-color: #850707;
+  color: #fff;
+  outline: 0;
+  border: 1px solid #bd0707;
+}
+
+.bg-card {
+  background-color: #f6dada;
+  border-color: #f6dada;
+  border-radius: 20px !important;
+}
+
+.text-primary-color {
+  color: #bd0707;
+}
+.text-secondary-color {
+  color: #974a4a;
+}
+
+.form-outline-primary {
+  border: 1px solid #bd0707;
+  background-color: #fff;
+  color: #bd0707;
+}
